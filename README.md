@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mirko / @Cremoison19
-- 👀 I’m interested in web design and developing, software developing and 
+- 👋 Hi, I’m Mirko / @Cremoison19, im a 19 year old student based in milan, italy
+- 👀 I’m interested in web design and developing, software developing and game design and development
 - 🌱 I’m currently learning php, html, css, figma apps, c#, java and python
 - 📫 How to reach me -> email: mirkopiras.01@gmail.com
 
